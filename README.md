@@ -16,4 +16,4 @@
    </ul>
 
 # Objective
- Objective of stem is to mainly add as many cool features as possible and still keep the size of the software under 40mb 
+ Objective of stem is to mainly add as many cool features as possible and still keep the size of the software under <b>40mb</b> 
