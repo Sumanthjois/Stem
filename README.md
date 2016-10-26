@@ -15,5 +15,5 @@
    <li>Add libraries to your projects</li>
    </ul>
 
-# <ui>
-<li>Objective of stem is to mainly add as many cool features as possible and still keep the size of the software under 40mb<li>  </ui>
+# Objective
+ Objective of stem is to mainly add as many cool features as possible and still keep the size of the software under 40mb<li>  
