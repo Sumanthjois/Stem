@@ -13,6 +13,7 @@
    <li>Autocompleting code</li>
    <li>Compile any java program</li>
    <li>Add libraries to your projects</li>
+   <li>Will be adding for features to this list soon...</li>
    </ul>
 
 # Objective
